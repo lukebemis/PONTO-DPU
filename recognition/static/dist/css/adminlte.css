@@ -19236,6 +19236,7 @@ html.maximized-card {
 .info-box .info-box-content {
   display: -ms-flexbox;
   display: flex;
+  color: red;
   -ms-flex-direction: column;
   flex-direction: column;
   -ms-flex-pack: center;
